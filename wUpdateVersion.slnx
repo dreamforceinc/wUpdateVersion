@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="wUpdateVersion/wUpdateVersion.vcxproj" Id="d83c9ad5-4e7c-4f7f-8227-c7438ccf57ea" />
+</Solution>
