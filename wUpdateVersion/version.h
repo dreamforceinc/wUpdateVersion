@@ -1,7 +1,7 @@
 ﻿// version.h
 #pragma once
 
-#define APP_VERSION "1.2.3"
+#define APP_VERSION "0.1"
 
 #ifdef _WIN64
 #define APP_ARCH "x64"
